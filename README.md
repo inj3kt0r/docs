@@ -1,233 +1,64 @@
-<div align="center">
-
 # 🚀 Inj3kt0r
 
-### Learn. Practice. Exploit. Defend.
+> Learn. Practice. Explore.
 
-A community-driven cybersecurity knowledge base focused on hands-on learning, labs, write-ups, and practical security research.
+Welcome to my personal cybersecurity knowledge base.
 
----
+I'm **Inj3kt0r**, and this repository contains my notes, labs, research, write-ups, and practical guides as I continue learning cybersecurity.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/inj3kt0r/docs)
-![GitHub Repo stars](https://img.shields.io/github/stars/inj3kt0r/docs?style=social)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+My primary interests include:
 
-</div>
-
----
-
-# 📖 About
-
-**Inj3kt0r** is an open-source cybersecurity documentation project designed to provide structured learning resources, practical labs, cheat sheets, and real-world attack & defense techniques.
-
-The goal is to build a comprehensive knowledge base for students, professionals, and security enthusiasts.
+- 🟥 Active Directory
+- 📱 Android Security
+- 🌐 Network Protocols
+- ☁️ Cloud & Security
+- 🐧 Linux
+- 🪟 Windows
+- 🔬 Reverse Engineering
+- 🦠 Malware Analysis
 
 ---
 
-# 📚 Documentation Categories
+## 📚 What you'll find here
 
-## 🟥 Active Directory
-
-- AD Fundamentals
-- Lab Setup
-- Enumeration
-- Kerberos
-- NTLM
-- LDAP
-- Attacks
-- AD CS
-- Detection
-- Hardening
+- Hands-on Labs
+- Step-by-step Guides
+- Cheat Sheets
+- Research Notes
+- CTF Write-ups
+- Tool Usage
+- Security References
 
 ---
 
-## 📱 Mobile Security
+## 🎯 Purpose
 
-- Android
-- Static Analysis
-- Dynamic Analysis
-- Frida
-- Objection
-- SSL Pinning
-- Runtime Hooking
-- Malware
-- Practice Labs
+This documentation serves as my personal knowledge base for organizing everything I learn and building practical resources that others can also benefit from.
 
 ---
 
-## ☁️ Cloud & Security
+## 📂 Documentation
 
-- AWS
-- Azure
-- Kubernetes
-- Docker
-- Terraform
-- DevSecOps
-
----
-
-## 🐧 Linux
-
-- Linux Fundamentals
-- Bash
-- Permissions
-- Networking
-- Services
-- Hardening
+- 🟥 Active Directory
+- 📱 Mobile Security
+- 🌐 Networking
+- ☁️ Cloud & Security
+- 🐧 Linux
+- 🪟 Windows
+- 💻 Programming
+- 🔬 Reverse Engineering
+- 🦠 Malware Analysis
+- 🧪 Labs
+- 📖 Cheat Sheets
+- 🚩 CTF Write-ups
+- 📚 Resources
 
 ---
 
-## 🪟 Windows
+## ⚠️ Disclaimer
 
-- Windows Internals
-- PowerShell
-- Registry
-- Defender
-- Sysinternals
+This documentation is intended for educational purposes only. Always perform security testing only on systems you own or have explicit authorization to assess.
 
 ---
 
-## 🌐 Networking
-
-- TCP/IP
-- DNS
-- DHCP
-- HTTP
-- SMB
-- LDAP
-- Kerberos
-- VPN
-
----
-
-## 💻 Programming
-
-- Python
-- Go
-- Rust
-- C
-- C++
-- C#
-- Java
-- Assembly
-
----
-
-## 🔬 Reverse Engineering
-
-- Ghidra
-- IDA
-- x64dbg
-- WinDbg
-- ELF
-- PE
-
----
-
-## 🦠 Malware
-
-- Windows Malware
-- Linux Malware
-- Android Malware
-- Detection
-- Analysis
-
----
-
-## 🚩 CTF & Write-ups
-
-- Hack The Box
-- TryHackMe
-- PortSwigger
-- VulnHub
-- PicoCTF
-- Research
-
----
-
-## 📖 Cheat Sheets
-
-- Linux
-- Windows
-- Active Directory
-- AWS
-- Mobile
-- Networking
-
----
-
-## 🛠 Tools
-
-- Burp Suite
-- Wireshark
-- BloodHound
-- Certipy
-- Impacket
-- Metasploit
-- CrackMapExec
-
----
-
-## 🧪 Labs
-
-- Beginner
-- Intermediate
-- Advanced
-- Active Directory
-- Mobile
-- Cloud
-- Linux
-
----
-
-## 📦 Projects
-
-- AD Lab
-- Mobile Lab
-- Cloud Lab
-- Reverse Proxy
-- Security Utilities
-
----
-
-# 🎯 Mission
-
-Build a free, organized, and practical cybersecurity learning platform where every topic includes:
-
-- 📖 Theory
-- 🛠 Hands-on Labs
-- 💡 Practical Examples
-- 📷 Screenshots
-- 🎥 References
-- 📑 Cheat Sheets
-- 🔍 Further Reading
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-You can help by:
-
-- Improving documentation
-- Fixing errors
-- Adding new labs
-- Creating diagrams
-- Sharing write-ups
-
-Please open an Issue or submit a Pull Request.
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-<div align="center">
-
-Made with ❤️ by the Inj3kt0r Community
-
-</div>
+*"Learning never stops."*
