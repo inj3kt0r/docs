@@ -54,7 +54,10 @@ administrator
 Computers:
 
 ```
-CLIENT01CLIENT02CLIENT03SERVER01
+CLIENT01
+CLIENT02
+CLIENT03
+SERVER01
 ```
 
 All these objects belong to the **inj3ktor.local** domain and are managed by the Domain Controller.
