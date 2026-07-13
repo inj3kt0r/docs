@@ -1,3 +1,7 @@
+---
+icon: server
+---
+
 # What is Active Directory
 
 ## 🟥 What is Active Directory?

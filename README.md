@@ -17,13 +17,13 @@ I'm **Inj3kt0r**, and this website documents my journey through cybersecurity, f
 My primary interests include:
 
 * 🟥 [Active Directory](https://inj3kt0r.gitbook.io/home/active-directory)
-* 📱 Android Security
-* 🌐 Network Protocols
-* ☁️ Cloud & Security
-* 🐧 Linux
-* 🪟 Windows
-* 🔬 Reverse Engineering
-* 🦠 Malware Analysis
+* 📱 [Android Security](https://inj3kt0r.gitbook.io/home/android-security)
+* 🌐 [Network Protocols](https://inj3kt0r.gitbook.io/home/network-security)
+* ☁️ [Cloud & Security](https://inj3kt0r.gitbook.io/home/cloud-security)
+* 🐧 [Linux](https://inj3kt0r.gitbook.io/home/linux-security)
+* 🪟 [Windows](https://inj3kt0r.gitbook.io/home/windows-security)
+* 🔬 [Reverse Engineering](https://inj3kt0r.gitbook.io/home/reverse-engineering)
+* 🦠 [Malware Analysis](https://inj3kt0r.gitbook.io/home/malware-analysis)
 
 This knowledge base is where I organize my notes, practical labs, research, and write-ups.
 
