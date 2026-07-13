@@ -1,10 +1,14 @@
-# 🚀 Inj3kt0r
+# 🚀 Welcome to Inj3kt0r
 
-> Learn. Practice. Explore.
+> **Learn. Practice. Explore.**
 
-Welcome to my personal cybersecurity knowledge base.
+Welcome to my personal cybersecurity knowledge base and learning journal.
 
-I'm **Inj3kt0r**, and this repository contains my notes, labs, research, write-ups, and practical guides as I continue learning cybersecurity.
+I'm **Inj3kt0r**, and this website documents my journey through cybersecurity, from foundational concepts to advanced labs and research.
+
+---
+
+## 👋 About
 
 My primary interests include:
 
@@ -17,48 +21,55 @@ My primary interests include:
 - 🔬 Reverse Engineering
 - 🦠 Malware Analysis
 
----
-
-## 📚 What you'll find here
-
-- Hands-on Labs
-- Step-by-step Guides
-- Cheat Sheets
-- Research Notes
-- CTF Write-ups
-- Tool Usage
-- Security References
+This knowledge base is where I organize my notes, practical labs, research, and write-ups.
 
 ---
 
-## 🎯 Purpose
+## 📚 Explore
 
-This documentation serves as my personal knowledge base for organizing everything I learn and building practical resources that others can also benefit from.
+### 🟥 Active Directory
+Learn Windows domains, Kerberos, LDAP, AD CS, BloodHound, and attack techniques.
 
----
+### 📱 Mobile Security
+Android application security, Frida, Objection, SSL pinning, and reverse engineering.
 
-## 📂 Documentation
+### ☁️ Cloud & Security
+AWS, Azure, Docker, Kubernetes, IAM, and cloud security concepts.
 
-- 🟥 Active Directory
-- 📱 Mobile Security
-- 🌐 Networking
-- ☁️ Cloud & Security
-- 🐧 Linux
-- 🪟 Windows
-- 💻 Programming
-- 🔬 Reverse Engineering
-- 🦠 Malware Analysis
-- 🧪 Labs
-- 📖 Cheat Sheets
-- 🚩 CTF Write-ups
-- 📚 Resources
+### 🌐 Networking
+TCP/IP, DNS, HTTP, SMB, LDAP, Kerberos, VPNs, and network fundamentals.
 
----
+### 🐧 Linux
+Linux administration, Bash, networking, permissions, and security.
 
-## ⚠️ Disclaimer
+### 🪟 Windows
+Windows internals, PowerShell, Defender, Registry, and Sysinternals.
 
-This documentation is intended for educational purposes only. Always perform security testing only on systems you own or have explicit authorization to assess.
+### 🔬 Reverse Engineering
+Static and dynamic analysis using Ghidra, IDA, x64dbg, and related tools.
+
+### 🦠 Malware Analysis
+Windows, Linux, and Android malware analysis techniques.
 
 ---
 
-*"Learning never stops."*
+## 🧪 Learning Philosophy
+
+This documentation focuses on:
+
+- Hands-on labs
+- Practical examples
+- Reproducible environments
+- Step-by-step guides
+- Security research
+- Continuous learning
+
+---
+
+## 📖 Disclaimer
+
+All content is intended for educational purposes only. Perform security testing only on systems you own or have explicit authorization to assess.
+
+---
+
+> *"The best way to learn cybersecurity is to build, break, analyze, and repeat."*
