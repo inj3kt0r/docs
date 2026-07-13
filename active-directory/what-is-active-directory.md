@@ -70,7 +70,9 @@ Every employee in an organization usually has a domain user account.
 Example:
 
 ```
-john.doealiceadministrator
+john.doe
+alice
+administrator
 ```
 
 These accounts allow users to log in from any domain-joined computer.
@@ -84,7 +86,9 @@ Every Windows machine joined to the domain becomes a computer object inside Acti
 Example:
 
 ```
-CLIENT01CLIENT02SRV01
+CLIENT01
+CLIENT02
+SRV01
 ```
 
 ***

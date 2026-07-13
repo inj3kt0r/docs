@@ -104,7 +104,10 @@ Every Active Directory domain has a unique DNS name.
 Examples:
 
 ```
-corp.locallab.localcompany.comad.inj3ktor.local
+corp.local
+lab.local
+company.com
+ad.inj3ktor.local
 ```
 
 The domain name helps computers locate Domain Controllers and other services using DNS.
