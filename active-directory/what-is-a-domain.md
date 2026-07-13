@@ -45,7 +45,10 @@ inj3ktor.local
 Users:
 
 ```
-alicebobcharlieadministrator
+alice
+bob
+charlie
+administrator
 ```
 
 Computers:
